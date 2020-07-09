@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Hi There 👋,
 
 ### - 🌱 I’m currently learning C++ and JavaScript
-### - 💬 Ask me about: kdrama,tech,memes
+### - 💬 Ask me about: kdramas,tech,memes
 ### - 😄 Pronouns: she/her
 
 
