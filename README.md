@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### - 🌱 I’m currently learning C++ and Javascript
-### - ⚡ Fun fact: I'm currently a 2nd year BTech student. 
+### - ⚡ Fun fact: I'm a 2nd year BTech student. 
 <!--
 **ShreyaDhir/ShreyaDhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
