@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 
 ### Hi There 👋,
 
-### -🔭 I’m currently working on Android Apps
-### -🌱 I’m currently learning C++ and JavaScript
-### -💬 Ask me about: kdrama,tech,memes
-### -😄 Pronouns: she/her
+### - 🌱 I’m currently learning C++ and JavaScript
+### - 💬 Ask me about: kdrama,tech,memes
+### - 😄 Pronouns: she/her
 
 
 
