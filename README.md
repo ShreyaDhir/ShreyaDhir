@@ -21,7 +21,7 @@
 
 
 ## Some of my Github Stats
-[![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=ShreyaDhir)]
+![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=ShreyaDhir)
 
 
 <hr>
