@@ -11,13 +11,13 @@
 
 ### I am Shreya
 
-- 🔭 I'm a Computer Science student passionate about learning new stuff. 👨‍💻
+- I'm a Computer Science student passionate about learning new stuff. 👨‍💻
 
-- 🌱 I'm currently learning C++, Data Structure and Algorithms, React and React-Native.
+- I'm currently learning C++, Data Structure and Algorithms, React and React-Native.
 
-- 💬 Ask me about: Kpop ,Tech ,memes
+- Ask me about: Kpop ,Tech ,memes
 
-- 😄 Pronouns: she/her
+- Pronouns: she/her
 
 
 ## Some of my Github Stats
