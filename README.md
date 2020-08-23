@@ -15,7 +15,7 @@
 
 - I'm currently learning C++, Data Structure and Algorithms, React and React-Native.
 
-- Ask me about: Kpop ,Tech , memes
+- Ask me about: Kpop ,Tech and memes.
 
 - Pronouns: she/her
 
