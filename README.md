@@ -21,8 +21,9 @@
 
 
 ## Some of my Github Stats
-![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=ShreyaDhir)
 
+![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=ShreyaDhir&theme=chartreuse-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaDhir&theme=chartreuse-dark&show_icons=true)](https://github.com/ShreyaDhir/github-readme-stats)  
 
 <hr>
 <p align="center">
@@ -30,7 +31,7 @@
 
   <p align="center">
     <a href="https://twitter.com/ShreyaDhir" alt="Twitter"><img src="https://github.com/aletisunil/aletisunil/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.linkedin.com/in/shreya-951631187" alt="Linkedin"><img src="https://github.com/aletisunil/aletisunil/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/shreya-dhir" alt="Linkedin"><img src="https://github.com/aletisunil/aletisunil/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
     <a href="https://www.instagram.com/shreyadhir_/" alt="Instagram"><img src="https://github.com/aletisunil/aletisunil/blob/master/instagram.png" height="30" width="30"></a>&nbsp;
 
   </p>
