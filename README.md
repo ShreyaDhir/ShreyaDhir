@@ -11,7 +11,7 @@
 
 <img alignLeft="50" src="https://i.pinimg.com/originals/74/fa/be/74fabe0ac2588f7f052170708b5136b8.gif" height="300" width="700"/>
 
-I am Shreya and I'm a Sophomore at Kaling Institute of Industrial Technology. Currently my concentration is Computer Science student and I'm passionate about learning new stuff. 👨‍💻. I started coding in 2020 and after spending countless hours researchiing about different domains and fields in Computer Science I fell in love with ReactJS and Machine Learning. <3 I want to devote as much time as I can to coding and want to grow with this progressive community. Currenlty I aspire to become a Data Scientist.
+I am Shreya and I'm a Sophomore at Kalinga Institute of Industrial Technology. Currently my concentration is Computer Science and I'm passionate about learning new stuff! 👨‍💻. I started coding in 2020 and after spending countless hours researchiing about different domains and fields in Computer Science I fell in love with ReactJS and Machine Learning. ❤️ I want to devote as much time as I can to coding and want to grow with this progressive community. Currenlty I aspire to become a Data Scientist.
 
  ✨ Currently learning C++, Data Structure and Algorithms, React and React-Native.
 
@@ -19,7 +19,7 @@ I am Shreya and I'm a Sophomore at Kaling Institute of Industrial Technology. Cu
   
  💫 Checkout my Dev blog where I regularly post articles - <a href="https://dev.to/shreyadhir"> DEV </a>
  
- 🌟 Open to collaborate on projects.
+ 🌟 Open to collaboration on any project related to ReactJS.
 
 ## Some of my Github Stats
 
