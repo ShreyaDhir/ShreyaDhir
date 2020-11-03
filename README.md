@@ -9,7 +9,7 @@
 
 ### Hi There 👋
 
-I am Shreya and I'm a Sophomore at Kalinga Institute of Industrial Technology, Bhubaneshwar. Currently my concentration is Computer Science and I'm passionate about learning new stuff! 👨‍💻 I started coding in 2020 and after spending countless hours researching about different domains and fields in Computer Science I fell in love with ReactJS and Machine Learning. ❤️ I want to devote as much time as I can to coding and want to grow with this progressive community.
+I am Shreya and I'm a sophomore at Kalinga Institute of Industrial Technology, Bhubaneshwar. Currently my concentration is Computer Science and I'm passionate about learning new stuff! 👨‍💻 I started coding in 2020 and after spending countless hours researching about different domains and fields in Computer Science I fell in love with ReactJS and Machine Learning. ❤️ I want to devote as much time as I can to coding and want to grow with this progressive community.
 
  ✨ Currently learning C++, Data Structure and Algorithms, React and React-Native.
 
