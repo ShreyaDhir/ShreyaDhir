@@ -17,7 +17,7 @@ I am Shreya and I'm a sophomore at Kalinga Institute of Industrial Technology, B
   
  💫 Checkout my Dev blog where I regularly post articles - <a href="https://dev.to/shreyadhir"> DEV </a>
  
- 🌟 Open to collaboration on any project related to ReactJS.
+ 🌟 Open to collaboration on any project related to ReactJS and React Native.
 
 ## Some of my Github Stats
 
