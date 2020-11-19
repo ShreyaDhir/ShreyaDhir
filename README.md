@@ -28,9 +28,9 @@ I am Shreya and I'm a sophomore at Kalinga Institute of Industrial Technology, B
   <i><b>Reach out to me here!</b></i>
 
   <p align="center">
-    <a href="https://twitter.com/ShreyaDhir" alt="Twitter"><img src="https://github.com/aletisunil/aletisunil/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.linkedin.com/in/shreya-dhir" alt="Linkedin"><img src="https://github.com/aletisunil/aletisunil/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.instagram.com/shreyadhir_/" alt="Instagram"><img src="https://github.com/aletisunil/aletisunil/blob/master/instagram.png" height="30" width="30"></a>&nbsp;
+    <a href="https://twitter.com/ShreyaDhir" alt="Twitter"><img src="https://www.flaticon.com/svg/static/icons/svg/889/889147.svg" height="30" width="30"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/shreya-dhir" alt="Linkedin"><img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" height="30" width="30"></a>&nbsp;
+    <a href="https://www.instagram.com/shreyadhir_/" alt="Instagram"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" height="30" width="30"></a>&nbsp;
  <a href="https://dev.to/shreyadhir" alt="DEV"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30"></a>&nbsp;
 
   </p>
