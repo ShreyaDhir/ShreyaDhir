@@ -21,7 +21,7 @@ I am Shreya and I'm a sophomore at Kalinga Institute of Industrial Technology, B
 
 ## Some of my Github Stats
 <div align="center">
-![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=ShreyaDhir&theme=chartreuse-dark&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ShreyaDhir&theme=chartreuse-dark&show_icons=true"/>
 </div>
 
 <hr>
