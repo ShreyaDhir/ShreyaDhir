@@ -20,8 +20,9 @@ I am Shreya and I'm a sophomore at Kalinga Institute of Industrial Technology, B
  🌟 Open to collaboration on any project related to ReactJS and React Native.
 
 ## Some of my Github Stats
-
+<div align="center">
 ![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=ShreyaDhir&theme=chartreuse-dark&show_icons=true)
+</div>
 
 <hr>
 <p align="center">
