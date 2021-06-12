@@ -83,6 +83,6 @@ I am Shreya and I'm a sophomore at Kalinga Institute of Industrial Technology, B
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shreyadhir&show_icons=true&locale=en" alt="shreyadhir" /></p>
 
-<p><img align="right" width="40%" height: 70% src="https://github-readme-streak-stats.herokuapp.com/?user=shreyadhir&" alt="shreyadhir" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyadhir&" alt="shreyadhir" /></p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyadhir&label=Profile%20views&color=0e75b6&style=flat" alt="shreyadhir" /> </p> -->
