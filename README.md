@@ -4,12 +4,15 @@
 ⚡ Fun fact: I'm a 2nd year BTech student. 
  -->
 
-<!--**ShreyaDhir/ShreyaDhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. <img alignLeft="50" src="https://i.pinimg.com/originals/74/fa/be/74fabe0ac2588f7f052170708b5136b8.gif" height="300" width="700"/>-->
+<!--**ShreyaDhir/ShreyaDhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. <img alignLeft="50" src="https://i.pinimg.com/originals/74/fa/be/74fabe0ac2588f7f052170708b5136b8.gif" height="300" width="700"/>
+
+I am Shreya and I'm a sophomore at Kalinga Institute of Industrial Technology, Bhubaneshwar. Currently my concentration is Computer Science and I'm passionate about learning new stuff! 👨‍💻 I started coding in 2020 and after spending countless hours researching about different domains and fields in Computer Science I fell in love with ReactJS and Machine Learning. ❤️ I want to devote as much time as I can to coding and want to grow with this progressive community.
+-->
 
 
 ### Hi There 👋
 
-I am Shreya and I'm a sophomore at Kalinga Institute of Industrial Technology, Bhubaneshwar. Currently my concentration is Computer Science and I'm passionate about learning new stuff! 👨‍💻 I started coding in 2020 and after spending countless hours researching about different domains and fields in Computer Science I fell in love with ReactJS and Machine Learning. ❤️ I want to devote as much time as I can to coding and want to grow with this progressive community.
+![Starry Night](https://res.cloudinary.com/jerrick/image/upload/fl_progressive,q_auto,w_1024/di0ive8mnickmavbzeqd.gif)
 
  ✨ Currently learning C++, Data Structure and Algorithms, React and React-Native.
 
