@@ -55,7 +55,7 @@ I am Shreya and I'm a sophomore at Kalinga Institute of Industrial Technology, B
 
 🌱  I’m currently learning **Data Structures and Algorithms**
 
-👨‍💻  All of my projects are available at [shreya.vercel.app/](https://shreya.vercel.app/)
+👨‍💻  All of my blogs are available at [shreya.vercel.app/](https://shreya.vercel.app/)
 
 💬  Ask me about **React, React Native, Expo**
 
