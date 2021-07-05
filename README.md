@@ -86,3 +86,7 @@ I am Shreya and I'm a sophomore at Kalinga Institute of Industrial Technology, B
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyadhir&" alt="shreyadhir" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyadhir&label=Profile%20views&color=0e75b6&style=flat" alt="shreyadhir" /> </p>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
