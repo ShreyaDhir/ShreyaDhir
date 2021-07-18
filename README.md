@@ -84,3 +84,5 @@ C          33 mins         █▓░░░░░░░░░░░░░░░�
 Java       25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 ```
 <!--END_SECTION:waka-->
+
+[![Shreya's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ShreyaDhir)](https://github.com/KnlnKS/leetcode-stats)
