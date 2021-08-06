@@ -76,13 +76,7 @@ I am Shreya and I'm a sophomore at Kalinga Institute of Industrial Technology, B
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyadhir&label=Profile%20views&color=0e75b6&style=flat" alt="shreyadhir" /> </p>
 
 <!--START_SECTION:waka-->
-```text
-C++        4 hrs 13 mins   ████████████▒░░░░░░░░░░░░   49.88 % 
-Markdown   2 hrs           ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-Python     56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-C          33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Java       25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-```
+
 <!--END_SECTION:waka-->
 
 [![Shreya's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ShreyaDhir)](https://github.com/KnlnKS/leetcode-stats)
