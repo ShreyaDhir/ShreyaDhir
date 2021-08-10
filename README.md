@@ -79,4 +79,4 @@ I am Shreya and I'm a sophomore at Kalinga Institute of Industrial Technology, B
 
 <!--END_SECTION:waka-->
 
-[![Shreya's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ShreyaDhir)](https://github.com/KnlnKS/leetcode-stats)
+
