@@ -52,8 +52,8 @@ I am Shreya and I'm a sophomore at Kalinga Institute of Industrial Technology, B
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <p style="font-weight: 400;" align="center">A passionate frontend developer from India. :]</p>
 
-<div display="flex">
-<p align="flex-start"> <a href="https://twitter.com/shreyadhir" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="shreyadhir" /></a> </p>
+<!-- <div display="flex">
+<p align="flex-start"> <a href="https://twitter.com/shreyadhir" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="shreyadhir" /></a> </p> -->
 
 <p align="flex-center"> <a href="https://www.linkedin.com/in/shreya-dhir/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shreyadhir" /></a> </p>
  </div>
