@@ -23,15 +23,23 @@ I'm a passionate computer science graduate student at the [University of Souther
 ### Blogs
 - [Creating a new Database using PostgreSQL](https://shreya-blog.vercel.app/posts/db-postresql)
 - [Creating Apk for React Native Project](https://shreya-blog.vercel.app/posts/apk-rn)
-
 ---
 
-<div align="center">
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=gh-light-mode-only)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaDhir&show_icons=true&theme=gh-light-mode-only)
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaDhir&layout=compact&size_weight=0.5&count_weight=0.5&theme=gh-light-mode-only" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ShreyaDhir&show_icons=true&show=prs_merged,prs_merged_percentage&hide=contribs&hide_rank=true&theme=gh-light-mode-only" />
+    </td>
+    <td>
+      <a href="https://gist.github.com/ShreyaDhir/e4a9094ef2dc0279a93c0009460b0c90">
+        <img src="https://github-readme-stats.vercel.app/api/gist?id=e4a9094ef2dc0279a93c0009460b0c90" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 📫  How to reach me **dhirshreya@gmail.com**
 
