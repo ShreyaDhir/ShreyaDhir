@@ -7,6 +7,7 @@ I'm Shreya, a graduate computer science student at [University of Southern Calif
 [Courses Taken](https://github.com/ShreyaDhir/courses-taken/blob/main/README.md) | [Linkedin](https://www.linkedin.com/in/shreya-dhir/)
 
 ### Experience
+- Software Engineering Intern at **Microsoft** (Redmond, WA). Built AI agent workflows, expanded test coverage, and improved CI/CD reliability. Duration: [Jun 2025 – Aug 2025]
 - Software Engineering Intern at **Ericsson**. Worked with UNIX Infrastructure team for project - RNAM. Duration: [Jan 2024 - Nov 2024]
 - Internship Trainee at **Commvault**. Trainee under Prathidhi Program (Python cohort). Duration: [Mar 2022 - Apr 2022]
 - Frontend Developer Intern at **Caramel IT Services**. Worked with MERN team to create an online education platform. Duration: [Apr 2020 - May 2020]
