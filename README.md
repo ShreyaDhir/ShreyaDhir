@@ -1,3 +1,4 @@
+<!-- 
 ## Hi 👋, I'm Shreya</h1>
 I'm a passionate computer science graduate student at the [University of Southern California (USC)](https://usc.edu/), set to graduate in December 2025. I love building robust software solutions, exploring new technologies, and collaborating with innovative teams.
 
@@ -13,12 +14,11 @@ I'm a passionate computer science graduate student at the [University of Souther
 - Internship Trainee at **Commvault**. Trainee under Prathidhi Program (Python cohort). Duration: [Mar 2022 - Apr 2022]
 - Frontend Developer Intern at **Caramel IT Services**. Worked with MERN team to create an online education platform. Duration: [Apr 2020 - May 2020]
 
-<!-- 
 ### Projects / Open Source Contribution
 - Project 1
 - Project 2
 - Project 3
--->
+
 
 ### Blogs
 - [Creating a new Database using PostgreSQL](https://shreya-blog.vercel.app/posts/db-postresql)
@@ -44,4 +44,4 @@ I'm a passionate computer science graduate student at the [University of Souther
 📫  How to reach me **dhirshreya@gmail.com**
 
 
-
+-->
